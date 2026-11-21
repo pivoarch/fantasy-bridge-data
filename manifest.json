@@ -1,0 +1,38 @@
+{
+  "source_repo": "pivoarch/fantasy-football-bridge",
+  "run_id": "44853594119",
+  "sha": "19f4d56cb3bae92f05261bdcb5fb207e7f40ddbe",
+  "variant": "full",
+  "files": {
+    "fantasy_ai_rowdy.json": {
+      "generated_at": "2026-11-21T02:02:32.260259+00:00",
+      "bytes": 22979,
+      "sha256": "3d321f4a657bfc39fc20c0f1dff78808b67ce2f07e713339dd5ff4bd6490aead"
+    },
+    "fantasy_ai_rowdy_pool.json": {
+      "generated_at": "2026-11-21T02:02:32.260259+00:00",
+      "bytes": 36146,
+      "sha256": "0adb6cc82c4504f3f6e8207e52d24ab816f762425d85f7dc6d1c202252efe2cd"
+    },
+    "fantasy_ai_shangri_la.json": {
+      "generated_at": "2026-11-21T02:02:32.260259+00:00",
+      "bytes": 23982,
+      "sha256": "14dd8e2306c3666ff282c994b19df61edcce9d80f2e96890b1d79ecc83b00480"
+    },
+    "fantasy_ai_shangri_la_pool.json": {
+      "generated_at": "2026-11-21T02:02:32.260259+00:00",
+      "bytes": 43283,
+      "sha256": "7f752a036eab7c58b0b95247429b72a0fdd4a9dd6cdf43b441052c5d10febfd6"
+    },
+    "fantasy_ai_sleeper.json": {
+      "generated_at": "2026-11-21T02:02:32.260259+00:00",
+      "bytes": 29442,
+      "sha256": "529e2f7250373945fdcd3eb258bb548b4d94a281447f0febb217146ae53e1598"
+    },
+    "fantasy_ai_sleeper_pool.json": {
+      "generated_at": "2026-11-21T02:02:32.260259+00:00",
+      "bytes": 52466,
+      "sha256": "b24229a6c23dc5bed2489e0e88517eadd729f0298730aa5fafc2942b7f2e5b2b"
+    }
+  }
+}
